@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/meatpuppy/desafioligamagic/static/css/main.e6c13ad2.css",
-    "main.js": "/meatpuppy/desafioligamagic/static/js/main.8dd7441b.js",
-    "static/js/787.4241bdcb.chunk.js": "/meatpuppy/desafioligamagic/static/js/787.4241bdcb.chunk.js",
-    "static/media/counterspell3.jpg": "/meatpuppy/desafioligamagic/static/media/counterspell3.ae29dd81058a7ae2ea66.jpg",
-    "static/media/counterspell2.jpg": "/meatpuppy/desafioligamagic/static/media/counterspell2.612bb43701d120d56b0f.jpg",
-    "static/media/counterspell.jpg": "/meatpuppy/desafioligamagic/static/media/counterspell.9eeb280971911832d915.jpg",
-    "static/media/green.png": "/meatpuppy/desafioligamagic/static/media/green.3252e999abc62d90cc4c.png",
-    "static/media/red.png": "/meatpuppy/desafioligamagic/static/media/red.14351f2084dc9e593e9a.png",
-    "static/media/colorless.png": "/meatpuppy/desafioligamagic/static/media/colorless.1c533beabb47658e274b.png",
-    "static/media/white.png": "/meatpuppy/desafioligamagic/static/media/white.bb81307b9c5ea6cca91e.png",
-    "static/media/black.png": "/meatpuppy/desafioligamagic/static/media/black.1327f5b18ee3608e60bc.png",
-    "static/media/pwhite.png": "/meatpuppy/desafioligamagic/static/media/pwhite.3e9f7d62220f0e089d64.png",
-    "static/media/one.png": "/meatpuppy/desafioligamagic/static/media/one.284520f10a2d96ea5706.png",
-    "static/media/pred.png": "/meatpuppy/desafioligamagic/static/media/pred.94102ffbed562ce06ff1.png",
-    "static/media/pgreen.png": "/meatpuppy/desafioligamagic/static/media/pgreen.ad142a7822050ef46710.png",
-    "static/media/pblue.png": "/meatpuppy/desafioligamagic/static/media/pblue.a0d3fc7d209c88d2e999.png",
-    "static/media/pblack.png": "/meatpuppy/desafioligamagic/static/media/pblack.7882e3b10118d18dc6d9.png",
-    "index.html": "/meatpuppy/desafioligamagic/index.html",
-    "main.e6c13ad2.css.map": "/meatpuppy/desafioligamagic/static/css/main.e6c13ad2.css.map",
-    "main.8dd7441b.js.map": "/meatpuppy/desafioligamagic/static/js/main.8dd7441b.js.map",
-    "787.4241bdcb.chunk.js.map": "/meatpuppy/desafioligamagic/static/js/787.4241bdcb.chunk.js.map"
+    "main.css": "/desafioligamagic/static/css/main.e6c13ad2.css",
+    "main.js": "/desafioligamagic/static/js/main.c6af2107.js",
+    "static/js/787.4241bdcb.chunk.js": "/desafioligamagic/static/js/787.4241bdcb.chunk.js",
+    "static/media/counterspell3.jpg": "/desafioligamagic/static/media/counterspell3.ae29dd81058a7ae2ea66.jpg",
+    "static/media/counterspell2.jpg": "/desafioligamagic/static/media/counterspell2.612bb43701d120d56b0f.jpg",
+    "static/media/counterspell.jpg": "/desafioligamagic/static/media/counterspell.9eeb280971911832d915.jpg",
+    "static/media/green.png": "/desafioligamagic/static/media/green.3252e999abc62d90cc4c.png",
+    "static/media/red.png": "/desafioligamagic/static/media/red.14351f2084dc9e593e9a.png",
+    "static/media/colorless.png": "/desafioligamagic/static/media/colorless.1c533beabb47658e274b.png",
+    "static/media/white.png": "/desafioligamagic/static/media/white.bb81307b9c5ea6cca91e.png",
+    "static/media/black.png": "/desafioligamagic/static/media/black.1327f5b18ee3608e60bc.png",
+    "static/media/pwhite.png": "/desafioligamagic/static/media/pwhite.3e9f7d62220f0e089d64.png",
+    "static/media/one.png": "/desafioligamagic/static/media/one.284520f10a2d96ea5706.png",
+    "static/media/pred.png": "/desafioligamagic/static/media/pred.94102ffbed562ce06ff1.png",
+    "static/media/pgreen.png": "/desafioligamagic/static/media/pgreen.ad142a7822050ef46710.png",
+    "static/media/pblue.png": "/desafioligamagic/static/media/pblue.a0d3fc7d209c88d2e999.png",
+    "static/media/pblack.png": "/desafioligamagic/static/media/pblack.7882e3b10118d18dc6d9.png",
+    "index.html": "/desafioligamagic/index.html",
+    "main.e6c13ad2.css.map": "/desafioligamagic/static/css/main.e6c13ad2.css.map",
+    "main.c6af2107.js.map": "/desafioligamagic/static/js/main.c6af2107.js.map",
+    "787.4241bdcb.chunk.js.map": "/desafioligamagic/static/js/787.4241bdcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8dd7441b.js"
+    "static/js/main.c6af2107.js"
   ]
 }
